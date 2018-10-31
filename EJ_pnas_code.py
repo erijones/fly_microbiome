@@ -16,10 +16,6 @@ import matplotlib.pyplot as plt
 import scipy.stats
 import itertools
 
-
-
-
-
 def make_fig_2():
     """ This function creates Figure 2 of the main text, which creates a
     "mixing model" that predicts host traits of a given microbial composition
